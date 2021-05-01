@@ -1,7 +1,7 @@
 # projeto_keymaster
 
-6º Semestre
-Projeto de Desenvolvimento de Aplicações Multiplataforma 
+6º Semestre |
+Projeto de Desenvolvimento de Aplicações Multiplataforma |
 Profº Thiago G. Traue 
 
 ## Getting Started
