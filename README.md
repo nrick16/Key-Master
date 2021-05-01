@@ -1,6 +1,8 @@
 # projeto_keymaster
 
-A new Flutter project.
+6º Semestre
+Projeto de Desenvolvimento de Aplicações Multiplataforma 
+Profº Thiago G. Traue 
 
 ## Getting Started
 
