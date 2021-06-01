@@ -4,7 +4,7 @@
 Projeto de Desenvolvimento de Aplicações Multiplataforma |
 Profº Thiago G. Traue 
 
-# Tela de Login  /  Tela Inicial
+# Tela de Login            |           Tela Inicial
 ![image](https://user-images.githubusercontent.com/67766992/120324734-55dbae80-c2bd-11eb-969e-91c142aa5cef.png) ![image](https://user-images.githubusercontent.com/67766992/120324845-74da4080-c2bd-11eb-9585-1732d344f99b.png)
 
 # Tela de Solicitações
