@@ -1,7 +1,6 @@
 # projeto_keymaster
 
-6º Semestre |
-Projeto de Desenvolvimento de Aplicações Multiplataforma |
+Projeto de Desenvolvimento de Aplicações Multiplataforma | 6º Semestre  <br>
 Profº Thiago G. Traue 
 
 # Tela de Login | Tela Inicial
