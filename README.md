@@ -2,7 +2,7 @@
 
 Projeto de Desenvolvimento de Aplicações Multiplataforma | 6º Semestre  <br>
 Profº Thiago G. Traue 
-<br>
+<br><br>
 O projeto visa o desenvolvimento e a implantação de um aplicativo gerenciador para controle de chaves, em que o funcionário utilize no próprio celular da empresa, caracterizando assim em um processo mais rápido e dinâmico, onde o mesmo só precisará informar seu próprio ID para acessar o aplicativo, e em sequência preencher os campos (Nº da Chave/Solicitante), feito isso os dados da solicitação ficarão salvos em um histórico para controle.
 # Tela de Login | Tela Inicial
 ![image](https://user-images.githubusercontent.com/67766992/120324734-55dbae80-c2bd-11eb-969e-91c142aa5cef.png) 
